@@ -28,6 +28,8 @@ https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTV.kh",My TV
 http://43.252.18.195:5080/live/streams/mytv.m3u8
+#EXTINF:-1 tvg-id="MyTV.kh",My TV
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="",Netlink TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="NTV.kh",NTV
@@ -64,6 +66,8 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 http://43.252.18.195:5080/live/streams/Pnntv.m3u8
 #EXTINF:-1 tvg-id="CTN.kh",CTN
 http://43.252.18.195:5080/live/streams/ctn052025.m3u8
+#EXTINF:-1 tvg-id="CTN.kh",CTN
+http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh@SD",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MOITV.kh@SD",MOI TV
@@ -76,8 +80,12 @@ https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh@SD",CTV8 HD
 http://43.252.18.195:5080/live/streams/ctv8.m3u8
+#EXTINF:-1 tvg-id="CTV8HD.kh",CTV8 HD
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CNC.kh@SD",CNC
 http://43.252.18.195:5080/live/streams/cnctv.m3u8
+#EXTINF:-1 tvg-id="CNC.kh",CNC
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh@SD",Town TV
 http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
 #EXTINF:-1 tvg-id="PNN.kh@SD",PNN
