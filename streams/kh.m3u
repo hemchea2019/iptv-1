@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ApsaraTV11.kh",Apsara TV11 (720p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh",MoINFTV
+#EXTINF:-1 tvg-id="MoINFTV.kh",MoINFTV
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
@@ -61,7 +61,7 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh",WIKI TV (720p)
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PNN.kh",PNN
-http://43.252.18.195:5080/live/streams/Pnntv.m3u8
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753690865&mtvhash=hZDZSSs68LL2G7tG_jmUUstENQEMSG6Cn7XkdDgUcBk=
 #EXTINF:-1 tvg-id="CTN.kh",CTN
 http://43.252.18.195:5080/live/streams/ctn052025.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh@SD",Fresh News
@@ -82,9 +82,9 @@ http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playl
 http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
 #EXTINF:-1 tvg-id="PNN.kh@SD",PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
-#EXTINF:-1 tvg-id="PNN.kh@SD",AGG
+#EXTINF:-1 tvg-id="AGG.kh@SD",AGGTV
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-30/LiveApp/streams/AGG.tv360.metfone.com.kh.m3u8
-#EXTINF:-1 tvg-id="PNN.kh@SD",E-Learning
+#EXTINF:-1 tvg-id="E-Learning.kh@SD",E-Learning
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-45/live/streams/E-Learning.m3u8
-#EXTINF:-1 tvg-id="PNN.kh@SD",ABC Cambodia
+#EXTINF:-1 tvg-id="ABC.kh@SD",ABC Cambodia
 https://es2-p1-netcdn.metfone.com.kh/netcdn-live-21/live/streams/live_2.m3u8
