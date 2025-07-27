@@ -3,10 +3,14 @@
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MoINFTV.kh",MoINFTV
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh",Bayon TV
+#EXTINF:-1 tvg-id="BayonTV.kh",BayonTV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh",BTV News (720p)
+#EXTINF:-1 tvg-id="BayonTV.kh",BayonTV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753691199&mtvhash=oDs4UbrYCfo6FHB01kPbPsCaclijoG-uHcFXhhckZr0=
+#EXTINF:-1 tvg-id="BTVNews.kh",BTV News 
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVNews.kh",BTV News 
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753691096&mtvhash=BkZSG2sL0iED_7Aq73U4MDcTzFd8ynDxiyK3hmkRP9Y=
 #EXTINF:-1 tvg-id="CTN.kh",CTN (480p)
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh",CTV 9 (720p)
@@ -48,14 +52,16 @@ https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.kh",TV 3
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh",TV5 Cambodia (1080p)
+#EXTINF:-1 tvg-id="TV5Cambodia.kh",TV5 Cambodia 
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh",TV5 Cambodia (720p)
+#EXTINF:-1 tvg-id="TV5Cambodia.kh",TV5 Cambodia 
 https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh",TV5 Cambodia
-http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK.kh",TVK (720p)
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753691248&mtvhash=woo2uMxIcOBZrqx8kW5vKNKUCoF5NujCAOTImtO-I48=
+#EXTINF:-1 tvg-id="TVK.kh",TVK 
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.kh",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753691369&mtvhash=bcYI8WvZzeupbpg8Ej4MbX525cWGobXlBwSbKdcexDc=
 #EXTINF:-1 tvg-id="TVK2.kh",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh",WIKI TV (720p)
