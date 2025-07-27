@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ApsaraTV11.kh",Apsara TV11 (720p)
+#EXTINF:-1 tvg-id="ApsaraTV11.kh",អប្សារា
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MoINFTV.kh",MoINFTV
+#EXTINF:-1 tvg-id="ApsaraTV11.kh@SD",អប្សារា
+https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MoINFTV.kh",ក្រសួងព័ត៌មាន
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh",BayonTV
+#EXTINF:-1 tvg-id="BayonTV.kh",បាយ័ន
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh",BayonTV
+#EXTINF:-1 tvg-id="BayonTV.kh",បាយ័ន
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753691199&mtvhash=oDs4UbrYCfo6FHB01kPbPsCaclijoG-uHcFXhhckZr0=
 #EXTINF:-1 tvg-id="BTVNews.kh",BTV News 
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
@@ -19,7 +21,7 @@ https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh",Fresh News 
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh",Hang Meas HDTV (1080p)
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh",ហង្សមាស
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="iTVHD.kh",iTV HD
 http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
@@ -74,8 +76,6 @@ http://43.252.18.195:5080/live/streams/ctn052025.m3u8
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MOITV.kh@SD",MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 tvg-id="ApsaraTV11.kh@SD",ApsaraTV
-https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EACNewsTV.kh@SD",EACNews TV
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="NTV.kh@SD",NTV
