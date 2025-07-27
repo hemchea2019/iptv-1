@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ApsaraTV11.kh",Apsara TV11 (720p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh",Bayon TV (720p)
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh",MoINFTV
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh",BTV News (720p)
